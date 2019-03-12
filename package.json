@@ -1,0 +1,22 @@
+{
+  "name": "restfulshopping",
+  "version": "1.0.0",
+  "description": "RESTful shopping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simonni/RestfulShopping.git"
+  },
+  "author": "Simon Kiflay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simonni/RestfulShopping/issues"
+  },
+  "homepage": "https://github.com/Simonni/RestfulShopping#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
